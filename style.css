@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat:wght@400;700&family=Exo+2&family=Marck+Script&family=Mountains+of+Christmas:wght@400;700&family=Pangolin&family=Tektur&display=swap');
+body{
+    background-color: #c9baa6;
+}
+span{
+    font-size: 40px;
+}
+header{
+    background-color: #aa183c;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    font-family: 'Mountains of Christmas', serif;
+    text-align: center;
+    color: white;
+    width: 768px;
+    margin: auto;
+    padding: 32px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.mother{
+    width: 768px;
+    margin: auto;
+    background-color: #c33155;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.baby{
+    background-color: #fff;
+    height: 100px;
+    width: 23%;  
+}
+
+
+footer{
+    background-color: #aa183c;
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+    font-family: 'Mountains of Christmas', serif;
+    text-align: center;
+    color: white;
+    width: 768px;
+    margin: auto;
+    padding: 32px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
